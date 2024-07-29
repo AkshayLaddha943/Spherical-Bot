@@ -1,0 +1,4 @@
+COPY THESE PARTS IN 
+C:\ProgramData\SOLIDWORKS\CircuitWorks\components
+
+install circuitworks prior-to-copy to generate file in c directory..

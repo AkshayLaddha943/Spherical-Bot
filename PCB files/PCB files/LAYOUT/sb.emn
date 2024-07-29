@@ -1,0 +1,192 @@
+.HEADER
+BOARD_FILE    3.0    "PADS Layout 9.5"    2020/03/07.20:03:51    1
+"g:\#iit\spherical robot\sb.emn"    THOU
+.END_HEADER
+.BOARD_OUTLINE    UNOWNED
+12.7
+0     -361.58                       -1227.38                      0     
+0     586.94                        1136.97                       169.1     
+0     586.94                        1136.97                       0     
+0     361.58                        1227.38                       143.2     
+0     361.58                        1227.38                       0     
+0     -586.94                       -1136.97                      169.1     
+0     -586.94                       -1136.97                      0     
+0     -361.58                       -1227.38                      143.2     
+0     -361.58                       -1227.38                      0     
+.END_BOARD_OUTLINE
+.DRILLED_HOLES
+157.480315 -460.000000 -1145.000000 PTH    21    PIN    UNOWNED
+15.000000 517.500000 -982.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 617.500000 -982.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 567.500000 -982.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 -130.000000 -885.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 667.500000 -882.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 667.500000 -932.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 367.500000 -832.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 667.500000 -782.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 667.500000 -832.500000 PTH    BOARD    VIA    UNOWNED
+33.460000 -910.000000 -745.000000 PTH    H4    PIN    UNOWNED
+33.460000 -910.000000 -660.000000 PTH    H3    PIN    UNOWNED
+33.460000 -830.000000 -660.000000 PTH    H2    PIN    UNOWNED
+33.460000 -830.000000 -745.000000 PTH    H1    PIN    UNOWNED
+15.000000 291.500000 -675.680210 PTH    BOARD    VIA    UNOWNED
+15.000000 250.000000 -725.000000 PTH    BOARD    VIA    UNOWNED
+40.000000 405.000000 -700.000000 PTH    U2    PIN    UNOWNED
+15.000000 667.500000 -682.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 667.500000 -732.500000 PTH    BOARD    VIA    UNOWNED
+15.000000 -750.000000 -575.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 341.500000 -575.680210 PTH    BOARD    VIA    UNOWNED
+15.000000 641.500000 -575.680210 PTH    BOARD    VIA    UNOWNED
+110.236220 871.000000 -563.000000 NPTH    12    PIN    UNOWNED
+15.000000 159.000000 -506.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 250.000000 -500.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 641.500000 -475.680210 PTH    BOARD    VIA    UNOWNED
+15.000000 641.500000 -525.680210 PTH    BOARD    VIA    UNOWNED
+35.430000 -1099.000000 -420.000000 PTH    S1    PIN    UNOWNED
+35.430000 -799.000000 -420.000000 PTH    S1    PIN    UNOWNED
+15.000000 -475.000000 -400.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 0.000000 -375.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 641.500000 -375.680210 PTH    BOARD    VIA    UNOWNED
+15.000000 641.500000 -425.680210 PTH    BOARD    VIA    UNOWNED
+35.430000 -1099.000000 -320.000000 PTH    S1    PIN    UNOWNED
+35.430000 -799.000000 -320.000000 PTH    S1    PIN    UNOWNED
+15.000000 -194.500000 -344.177533 PTH    BOARD    VIA    UNOWNED
+35.430000 -1099.000000 -220.000000 PTH    S1    PIN    UNOWNED
+35.430000 -799.000000 -220.000000 PTH    S1    PIN    UNOWNED
+15.000000 -725.000000 -175.000000 PTH    BOARD    VIA    UNOWNED
+35.430000 1066.000000 -154.000000 PTH    P1    PIN    UNOWNED
+35.430000 -1099.000000 -120.000000 PTH    S1    PIN    UNOWNED
+35.430000 -799.000000 -120.000000 PTH    S1    PIN    UNOWNED
+35.000000 -600.000000 -111.700787 PTH    J2    PIN    UNOWNED
+15.000000 -450.000000 -150.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 -344.500000 -144.177533 PTH    BOARD    VIA    UNOWNED
+15.000000 -250.000000 -125.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 -144.500000 -144.177533 PTH    BOARD    VIA    UNOWNED
+15.000000 50.000000 -125.000000 PTH    BOARD    VIA    UNOWNED
+40.000000 505.000000 -100.000000 PTH    U2    PIN    UNOWNED
+35.430000 1066.000000 -54.000000 PTH    P1    PIN    UNOWNED
+15.000000 -1125.000000 0.000000 PTH    BOARD    VIA    UNOWNED
+35.000000 -600.000000 -32.960630 PTH    J2    PIN    UNOWNED
+35.000000 -600.000000 45.779528 PTH    J2    PIN    UNOWNED
+15.000000 -100.000000 -50.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 300.000000 -25.000000 PTH    BOARD    VIA    UNOWNED
+35.430000 1066.000000 46.000000 PTH    P1    PIN    UNOWNED
+35.000000 -600.000000 124.519685 PTH    J2    PIN    UNOWNED
+15.000000 -185.000000 66.000000 PTH    BOARD    VIA    UNOWNED
+40.000000 505.000000 100.000000 PTH    U2    PIN    UNOWNED
+35.430000 1066.000000 146.000000 PTH    P1    PIN    UNOWNED
+67.000000 -1109.000000 237.000000 NPTH    J1    PIN    UNOWNED
+67.000000 -893.000000 237.000000 NPTH    J1    PIN    UNOWNED
+35.000000 -600.000000 203.259843 PTH    J2    PIN    UNOWNED
+33.460000 -455.000000 150.000000 PTH    H5    PIN    UNOWNED
+33.460000 -375.000000 150.000000 PTH    H6    PIN    UNOWNED
+33.460000 -295.000000 150.000000 PTH    H7    PIN    UNOWNED
+15.000000 -105.000000 225.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 275.000000 225.000000 PTH    BOARD    VIA    UNOWNED
+40.000000 405.000000 200.000000 PTH    U2    PIN    UNOWNED
+40.000000 505.000000 200.000000 PTH    U2    PIN    UNOWNED
+35.000000 -600.000000 282.000000 PTH    J2    PIN    UNOWNED
+33.460000 -455.000000 280.000000 PTH    H8    PIN    UNOWNED
+33.460000 -375.000000 280.000000 PTH    H9    PIN    UNOWNED
+33.460000 -295.000000 280.000000 PTH    H10    PIN    UNOWNED
+40.000000 405.000000 300.000000 PTH    U2    PIN    UNOWNED
+15.000000 -225.000000 350.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 -100.000000 425.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 25.000000 378.000000 PTH    BOARD    VIA    UNOWNED
+40.000000 405.000000 400.000000 PTH    U2    PIN    UNOWNED
+40.000000 505.000000 400.000000 PTH    U2    PIN    UNOWNED
+15.000000 25.000000 470.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 60.000000 510.000000 PTH    BOARD    VIA    UNOWNED
+110.236220 -871.000000 563.000000 NPTH    22    PIN    UNOWNED
+15.000000 -225.000000 600.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 50.000000 625.000000 PTH    BOARD    VIA    UNOWNED
+27.550000 828.000000 629.000000 PTH    S2    PIN    UNOWNED
+15.000000 -100.000000 700.000000 PTH    BOARD    VIA    UNOWNED
+15.000000 300.000000 675.000000 PTH    BOARD    VIA    UNOWNED
+40.000000 505.000000 700.000000 PTH    U2    PIN    UNOWNED
+27.550000 828.000000 729.000000 PTH    S2    PIN    UNOWNED
+15.000000 335.000000 807.000000 PTH    BOARD    VIA    UNOWNED
+27.550000 828.000000 829.000000 PTH    S2    PIN    UNOWNED
+40.000000 505.000000 900.000000 PTH    U2    PIN    UNOWNED
+157.480315 459.000000 1144.000000 PTH    11    PIN    UNOWNED
+.END_DRILLED_HOLES
+.PLACEMENT
+DRILL_4MM                                    DRILL_4MM                                    11                                           
+459.0                         1144.0                        0.0                           0.0       TOP       PLACED    
+DRILL_4MM                                    DRILL_4MM                                    21                                           
+-460.0                        -1145.0                       0.0                           0.0       TOP       PLACED    
+PJ_032H_SMT_TR_DCPWRJCK                      BARREL_JACK                                  J1                                           
+-1018.0                       237.0                         0.0                           0.0       TOP       PLACED    
+0402                                         CAP4                                         C6                                           
+25.0                          270.0                         0.0                           0.0       TOP       PLACED    
+0402                                         CAP4                                         C8                                           
+165.0                         270.0                         0.0                           180.0     TOP       PLACED    
+0603                                         CAP4                                         C4                                           
+110.0                         -855.0                        0.0                           270.0     TOP       PLACED    
+0603_C                                       CAP4                                         C5                                           
+-150.0                        -510.0                        0.0                           270.0     TOP       PLACED    
+1206                                         CAP4                                         C3                                           
+-375.0                        -260.0                        0.0                           0.0       TOP       PLACED    
+1206                                         CAP4                                         C7                                           
+-94.0                         -264.0                        0.0                           180.0     TOP       PLACED    
+1210                                         CAPAC                                        C2                                           
+95.0                          115.0                         0.0                           0.0       TOP       PLACED    
+CHRG_PORT                                    CHRG_PT                                      P1                                           
+1066.0                        -4.0                          0.0                           90.0      TOP       PLACED    
+SMA_DO_214AC_DIODE                           DIO1                                         D1                                           
+-370.0                        1065.0                        0.0                           180.0     TOP       PLACED    
+SMA_DO_214AC_DIODE                           DIO1                                         D2                                           
+-45.0                         1065.0                        0.0                           0.0       TOP       PLACED    
+SMA_DO_214AC_DIODE                           DIO2                                         D3                                           
+-310.0                        -490.0                        0.0                           270.0     TOP       PLACED    
+4POS_DIP_SW                                  DIP_SW                                       S1                                           
+-949.0                        -270.0                        0.0                           270.0     TOP       PLACED    
+HEADER                                       HEADER                                       H1                                           
+-830.0                        -745.0                        0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H2                                           
+-830.0                        -660.0                        0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H3                                           
+-910.0                        -660.0                        0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H4                                           
+-910.0                        -745.0                        0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H5                                           
+-455.0                        150.0                         0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H6                                           
+-375.0                        150.0                         0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H7                                           
+-295.0                        150.0                         0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H8                                           
+-455.0                        280.0                         0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H9                                           
+-375.0                        280.0                         0.0                           0.0       TOP       PLACED    
+HEADER                                       HEADER                                       H10                                          
+-295.0                        280.0                         0.0                           0.0       TOP       PLACED    
+4R7_7MM_INDUCTOR                             IND                                          L1                                           
+-380.0                        -810.0                        0.0                           180.0     TOP       PLACED    
+SOIC8_MP1584_BUCK                            MP1584_BUCK                                  U1                                           
+15.0                          -585.0                        0.0                           90.0      TOP       PLACED    
+ENCODER                                      MTR_ENCDR                                    J2                                           
+-600.0                        85.0                          0.0                           270.0     TOP       PLACED    
+RPI_BUCK_V2                                  PIZEROV1_3                                   U2                                           
+455.0                         0.0                           0.0                           0.0       TOP       PLACED    
+0603                                         RESISTOR                                     R1                                           
+25.0                          -855.0                        0.0                           90.0      TOP       PLACED    
+0603                                         RESISTOR                                     R2                                           
+225.0                         -570.0                        0.0                           0.0       TOP       PLACED    
+0603                                         RESISTOR                                     R3                                           
+195.0                         -695.0                        0.0                           270.0     TOP       PLACED    
+0603                                         RESISTOR                                     R4                                           
+-65.0                         -855.0                        0.0                           270.0     TOP       PLACED    
+0603                                         RESISTOR                                     R5                                           
+125.0                         -380.0                        0.0                           180.0     TOP       PLACED    
+0603                                         RESISTOR                                     R6                                           
+200.0                         -855.0                        0.0                           90.0      TOP       PLACED    
+25136NB_2_54MM_SWITCH                        SWSS                                         S2                                           
+828.0                         729.0                         0.0                           90.0      TOP       PLACED    
+SSOP24_TB6612FNG_MTR_DRVR                    TB6612FNG_MD                                 U3                                           
+100.0                         595.0                         0.0                           180.0     TOP       PLACED    
+DRILL_2_8MM                                  DRILL_2_8MM                                  12                                           
+871.0                         -563.0                        0.0                           0.0       TOP       PLACED    
+DRILL_2_8MM                                  DRILL_2_8MM                                  22                                           
+-871.0                        563.0                         0.0                           0.0       TOP       PLACED    
+.END_PLACEMENT
