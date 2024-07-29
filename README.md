@@ -34,7 +34,7 @@ This repository encapsulates the information related to board dimensions, electr
 <br/>
  
 <p align="left"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/pcb_measure.PNG" height="300" width="300" alt="Board sample">
-<p align="right"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/bom_final.PNG" height="300" width="300" alt="BOM">
+<p align="center"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/bom_final.PNG" height="300" width="300" alt="BOM">
 
 
 # Software
