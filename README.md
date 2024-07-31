@@ -120,9 +120,13 @@ The pitch control of the Spherical Bot is managed using a Proportional Controlle
 
 The Proportional Control equation used is:
 
-\[ P_{\text{error}} = \text{Set Point} - \text{Actual Pitch} \]
+$$
+P_{\text{error}} = \text{Set Point} - \text{Actual Pitch}
+$$
 
-\[ \text{Motor PWM} = \max(0, \min(200, K_p \times P_{\text{error}} + \text{User PWM})) \]
+$$
+\text{Motor PWM} = \max(0, \min(200, K_p \times P_{\text{error}} + \text{User PWM}))
+$$
 
 where:
 - \( P_{\text{error}} \) is the pitch error.
