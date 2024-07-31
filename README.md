@@ -129,7 +129,7 @@ $$
 $$
 
 where:
-- $$ \( P_{\text{error}} \) is the pitch error.
+-  \( P_{\text{error}} \) is the pitch error.
 - $$ \( \text{Set Point} \) is the desired pitch angle (set to 0.0 degrees in this case).
 - $$ \( \text{Actual Pitch} \) is the current pitch angle measured by the IMU sensor.
 - $$ \( K_p \) is the proportional gain, set to 0.00876.
@@ -153,9 +153,9 @@ The roll control of the Spherical Bot is managed using a Proportional Controller
 
 The Proportional Control equation used is:
 
-\[ R_{\text{error}} = \text{Set Point} - \text{Actual Roll} \]
+$$ R_{\text{error}} = \text{Set Point} - \text{Actual Roll} 
 
-\[ \text{Motor PWM} = \max(0, \min(200, K_p \times R_{\text{error}} + \text{User PWM})) \]
+$$ \text{Motor PWM} = \max(0, \min(200, K_p \times R_{\text{error}} + \text{User PWM})) 
 
 where:
 - \( R_{\text{error}} \) is the roll error.
