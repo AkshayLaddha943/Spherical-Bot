@@ -129,20 +129,18 @@ $$
 $$
 
 where:
-- \( P_{\text{error}} \) is the pitch error.
-- \( \text{Set Point} \) is the desired pitch angle (set to 0.0 degrees in this case).
-- \( \text{Actual Pitch} \) is the current pitch angle measured by the IMU sensor.
-- \( K_p \) is the proportional gain, set to 0.00876.
-- \( \text{User PWM} \) is a constant value (set to 185) that provides the base motor speed.
-- \( \text{Motor PWM} \) is the calculated PWM value to drive the motor, ensuring it stays within the range of 0 to 200
+- $$ \( P_{\text{error}} \) is the pitch error.
+- $$ \( \text{Set Point} \) is the desired pitch angle (set to 0.0 degrees in this case).
+- $$ \( \text{Actual Pitch} \) is the current pitch angle measured by the IMU sensor.
+- $$ \( K_p \) is the proportional gain, set to 0.00876.
+- $$ \( \text{User PWM} \) is a constant value (set to 185) that provides the base motor speed.
+- $$ \( \text{Motor PWM} \) is the calculated PWM value to drive the motor, ensuring it stays within the range of 0 to 200
 
 ### Optimal Value
 
-The optimal proportional gain (\( K_p \)) for achieving stable pitch control is determined to be:
+The optimal proportional gain $$ (\( K_p \)) for achieving stable pitch control is determined to be:
 
-\[ K_p = 0.00876 \]
-
-This value ensures that the Spherical Bot maintains the desired pitch angle with minimal oscillation and quick response to changes in pitch.
+$$ \[ K_p = 0.00876 \]
 
 
 ## Roll Control
